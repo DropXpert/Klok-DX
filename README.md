@@ -4,9 +4,9 @@
 
 # FEATURES 
 
-# Auto Referral
-# Auto Chat
-# IP Hide
-# Auto wallet Generate
-# Auto Wallet Save 
-# Proxy Support
+ Auto Referral
+ Auto Chat
+ IP Hide
+ Auto wallet Generate
+ Auto Wallet Save 
+ Proxy Support
